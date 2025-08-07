@@ -1,0 +1,27 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "C",
+      "text": "",
+      "points": [
+        [
+          58.26923076923083,
+          819.3974358974358
+        ],
+        [
+          213.3974358974359,
+          1161.7051282051282
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "02-35-52_002_2_scale_2.5.jpg",
+  "imageData": null,
+  "imageHeight": 1167,
+  "imageWidth": 255
+}

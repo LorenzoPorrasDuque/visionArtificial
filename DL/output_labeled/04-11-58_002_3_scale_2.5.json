@@ -1,0 +1,27 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "T",
+      "text": "",
+      "points": [
+        [
+          42.88461538461536,
+          609.1410256410256
+        ],
+        [
+          253.14102564102575,
+          1133.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "04-11-58_002_3_scale_2.5.jpg",
+  "imageData": null,
+  "imageHeight": 1167,
+  "imageWidth": 255
+}

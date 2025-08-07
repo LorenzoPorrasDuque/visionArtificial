@@ -1,0 +1,28 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "T",
+      "text": "",
+      "points": [
+        [
+          37.756408005952835,
+          693.7563954591751
+        ],
+        [
+          231.34616285562515,
+          1143.7565000653267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "03-24-55_002_2_scale_2.5_aug_20250806_212327.jpg",
+  "imageData": null,
+  "imageHeight": 1167,
+  "imageWidth": 255,
+  "text": ""
+}

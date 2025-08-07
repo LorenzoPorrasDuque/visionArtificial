@@ -1,0 +1,27 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "C",
+      "text": "",
+      "points": [
+        [
+          76.21794871794873,
+          910.4230769230769
+        ],
+        [
+          201.85897435897448,
+          1161.7051282051282
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "03-34-20_002_1_scale_2.5.jpg",
+  "imageData": null,
+  "imageHeight": 1167,
+  "imageWidth": 255
+}

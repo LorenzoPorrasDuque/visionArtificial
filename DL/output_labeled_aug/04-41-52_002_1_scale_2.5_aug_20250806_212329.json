@@ -1,0 +1,28 @@
+{
+  "version": "0.4.8",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "C",
+      "text": "",
+      "points": [
+        [
+          98.01281467080116,
+          901.448697924614
+        ],
+        [
+          227.49999403953552,
+          1152.730744600296
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "04-41-52_002_1_scale_2.5_aug_20250806_212329.jpg",
+  "imageData": null,
+  "imageHeight": 1167,
+  "imageWidth": 255,
+  "text": ""
+}

@@ -1,0 +1,8 @@
+path: C:\Users\Anime\Desktop\visionArtificial\DL
+train: train
+val: test
+nc: 3
+names: 
+  0: car
+  1: truck
+  2: bike
