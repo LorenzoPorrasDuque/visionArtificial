@@ -1,0 +1,250 @@
+2025-08-30 09:12:32 - INFO - Starting GUI application...[0m
+2025-08-30 09:13:46 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:18:12 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:18:34 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:27:44 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:34:17 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:34:37 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 09:35:22 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:23:29 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:24:18 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:30:44 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:33:28 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:34:00 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:34:46 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 10:35:02 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:27:30 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:28:46 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:29:10 - INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:31:54 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:31:55 - LoggerCamera INFO - [INFO] Initializing constructor RunCamera ...[0m
+2025-08-30 11:31:56 - LoggerCamera INFO - [INFO] Camera Camera_1 started ...[0m
+2025-08-30 11:34:52 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:34:55 - LoggerCamera INFO - [INFO] Initializing constructor RunCamera ...[0m
+2025-08-30 11:34:56 - LoggerCamera INFO - [INFO] Camera Camera_1 started ...[0m
+2025-08-30 11:37:39 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:37:45 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:37:45 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:37:46 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:37:47 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:37:47 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:37:48 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:37:49 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:37:49 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:37:50 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:37:50 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:37:51 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:37:51 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:37:52 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:37:53 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:37:53 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:37:54 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:37:54 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:38:05 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:38:05 - LoggerApp INFO - [INFO] Video finished[0m
+2025-08-30 11:38:25 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:38:30 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:38:32 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:38:33 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:38:34 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:38:35 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:38:37 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:38:38 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:38:39 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:38:40 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:38:41 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:38:42 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:38:44 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:38:45 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:38:46 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:38:47 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:38:48 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:38:50 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:38:58 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:38:59 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:39:00 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:39:00 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:39:01 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:39:02 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:39:02 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:39:03 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:39:03 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:39:04 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:39:05 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:39:05 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:39:06 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:39:06 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:39:07 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:39:08 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:39:08 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:39:12 - LoggerCamera INFO - [INFO] Initializing constructor RunCamera ...[0m
+2025-08-30 11:39:13 - LoggerCamera INFO - [INFO] Camera Camera_1 started ...[0m
+2025-08-30 11:39:20 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:39:20 - LoggerApp INFO - [INFO] Video finished[0m
+2025-08-30 11:39:25 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:39:25 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:39:26 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:39:27 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:39:30 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:39:31 - LoggerApp INFO - [INFO] Video stopped. Total: 1, Simple: 0, Double: 1[0m
+2025-08-30 11:39:38 - LoggerApp INFO - [INFO] Video stopped. Total: 0, Simple: 0, Double: 0[0m
+2025-08-30 11:39:42 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:39:42 - LoggerApp INFO - [INFO] Video stopped. Total: 1, Simple: 0, Double: 1[0m
+2025-08-30 11:40:14 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:40:20 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:40:21 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:40:23 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:40:24 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:40:25 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:40:26 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:40:27 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:40:28 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:40:29 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:40:31 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:40:32 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:40:33 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:40:35 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:40:36 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:40:37 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:40:38 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:40:39 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:41:00 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:41:00 - LoggerApp INFO - [INFO] Video finished[0m
+2025-08-30 11:42:14 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:42:16 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:42:17 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:42:18 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:42:19 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:42:20 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:42:22 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:42:22 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:42:24 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:42:25 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:42:26 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:42:27 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:42:29 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:42:30 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:42:31 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:42:32 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:42:33 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:42:54 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:42:54 - LoggerApp INFO - [INFO] Video finished[0m
+2025-08-30 11:43:41 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:43:46 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:46 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:43:47 - LoggerApp INFO - [DEBUG] External: 1, Internal: 1[0m
+2025-08-30 11:43:47 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:43:49 - LoggerApp INFO - [DEBUG] External: 1, Internal: 1[0m
+2025-08-30 11:43:49 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:43:50 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:50 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:43:51 - LoggerApp INFO - [DEBUG] External: 1, Internal: 1[0m
+2025-08-30 11:43:51 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:43:52 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:52 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:43:53 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:53 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:43:54 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:54 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:43:55 - LoggerApp INFO - [DEBUG] External: 1, Internal: 1[0m
+2025-08-30 11:43:55 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:43:56 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:56 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:43:58 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:58 - LoggerApp INFO - [INFO] Double circle detected #11[0m
+2025-08-30 11:43:59 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:43:59 - LoggerApp INFO - [INFO] Double circle detected #12[0m
+2025-08-30 11:44:00 - LoggerApp INFO - [DEBUG] External: 1, Internal: 2[0m
+2025-08-30 11:44:00 - LoggerApp INFO - [INFO] Double circle detected #13[0m
+2025-08-30 11:44:01 - LoggerApp INFO - [DEBUG] External: 13, Internal: 2[0m
+2025-08-30 11:44:01 - LoggerApp INFO - [INFO] Double circle detected (multi-object) #14[0m
+2025-08-30 11:44:02 - LoggerApp INFO - [DEBUG] External: 1, Internal: 1[0m
+2025-08-30 11:44:02 - LoggerApp INFO - [INFO] Double circle detected #15[0m
+2025-08-30 11:44:03 - LoggerApp INFO - [INFO] Video stopped. Total: 15, Simple: 0, Double: 15[0m
+2025-08-30 11:44:04 - LoggerApp INFO - [INFO] Video stopped. Total: 15, Simple: 0, Double: 15[0m
+2025-08-30 11:44:11 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:44:16 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:44:17 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:44:19 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:44:20 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:44:21 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:44:22 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:44:23 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:44:24 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:44:25 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:44:27 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:44:28 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:44:29 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:44:30 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:44:31 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:44:32 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:44:34 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:44:35 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:45:47 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:45:51 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:45:53 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:45:54 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:45:55 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:45:56 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:45:57 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:45:59 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:45:59 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:46:01 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:46:02 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:46:03 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:46:04 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:46:06 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:46:07 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:46:08 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:46:09 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:46:10 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:46:31 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:46:36 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:46:38 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:46:39 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:46:40 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:46:42 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:46:43 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:46:44 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:46:45 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:46:46 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:46:47 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:46:49 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:46:50 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:49:01 - LoggerApp INFO - [INFO] Initializing constructor Application ...[0m
+2025-08-30 11:49:06 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:49:07 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:49:09 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:49:10 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:49:11 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:49:12 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:49:14 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:49:14 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:49:16 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:49:17 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:49:18 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:49:19 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:49:21 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:49:22 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:49:23 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:49:24 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:49:25 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:49:32 - LoggerApp INFO - [INFO] Double circle detected #1[0m
+2025-08-30 11:49:33 - LoggerApp INFO - [INFO] Simple circle detected #1[0m
+2025-08-30 11:49:33 - LoggerApp INFO - [INFO] Simple circle detected #2[0m
+2025-08-30 11:49:34 - LoggerApp INFO - [INFO] Double circle detected #2[0m
+2025-08-30 11:49:34 - LoggerApp INFO - [INFO] Simple circle detected #3[0m
+2025-08-30 11:49:35 - LoggerApp INFO - [INFO] Double circle detected #3[0m
+2025-08-30 11:49:36 - LoggerApp INFO - [INFO] Double circle detected #4[0m
+2025-08-30 11:49:36 - LoggerApp INFO - [INFO] Double circle detected #5[0m
+2025-08-30 11:49:37 - LoggerApp INFO - [INFO] Simple circle detected #4[0m
+2025-08-30 11:49:37 - LoggerApp INFO - [INFO] Double circle detected #6[0m
+2025-08-30 11:49:38 - LoggerApp INFO - [INFO] Double circle detected #7[0m
+2025-08-30 11:49:38 - LoggerApp INFO - [INFO] Double circle detected #8[0m
+2025-08-30 11:49:39 - LoggerApp INFO - [INFO] Double circle detected #9[0m
+2025-08-30 11:49:40 - LoggerApp INFO - [INFO] Double circle detected #10[0m
+2025-08-30 11:49:40 - LoggerApp INFO - [INFO] Simple circle detected #5[0m
+2025-08-30 11:49:41 - LoggerApp INFO - [INFO] Simple circle detected #6[0m
+2025-08-30 11:49:41 - LoggerApp INFO - [INFO] Simple circle detected #7[0m
+2025-08-30 11:49:52 - LoggerApp INFO - [INFO] Video stopped. Total: 17, Simple: 7, Double: 10[0m
+2025-08-30 11:49:52 - LoggerApp INFO - [INFO] Video finished[0m
