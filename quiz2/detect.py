@@ -1,13 +1,26 @@
 from ultralytics import YOLO
 import cv2
 import numpy as np
+import os
+from pathlib import Path
+import torch
+
+# Get the directory where this script is located
+script_dir = Path(__file__).parent
+
+# Check if CUDA is available
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print(f"Using device: {device}")
+if device == 'cuda':
+    print(f"GPU: {torch.cuda.get_device_name(0)}")
 
 # Cargar el modelo YOLOv8 (asegúrate de que el archivo 'best.pt' es el que entrenaste con 26 clases)
-model = YOLO('/home/anime/Desktop/visionArtificial/quiz2/bestPlateCar.pt')
+model = YOLO(script_dir / 'bestPlateCar.pt')
+model.to(device)  # Move model to GPU
 
 # Ruta del video de entrada y de salida
-video_path = '/home/anime/Desktop/visionArtificial/quiz2/video.mp4'
-output_video_path = '/home/anime/Desktop/visionArtificial/quiz2/predicted_video.mp4'
+video_path = script_dir / 'video.mp4'
+output_video_path = script_dir / 'predicted_video.mp4'
 
 # Abrir el video
 cap = cv2.VideoCapture(video_path)
@@ -32,11 +45,20 @@ while cap.isOpened():
         break  # Salir si no quedan más frames
 
     frame_count += 1
-    if frame_count % 30 == 0:  # Print progress every 30 frames
+    if frame_count % 100 == 0:  # Print progress every 100 frames (less frequent for speed)
         print(f"Processed {frame_count}/{total_frames} frames ({frame_count/total_frames*100:.1f}%)")
 
     # Realizar la predicción en el frame actual, omitiendo la clase "Plate"
-    results = model.predict(source=frame, conf=0.25, verbose=False)  # Excluir la clase 0 ("Plate")
+    # Use GPU acceleration and optimize inference
+    results = model.predict(
+        source=frame, 
+        conf=0.25, 
+        verbose=False,
+        device=device,  # Explicitly use GPU
+        half=True if device == 'cuda' else False,  # Use FP16 precision on GPU for speed
+        imgsz=640,  # You can try smaller sizes like 320 for even faster inference
+        max_det=100  # Limit max detections per image
+    )
 
     # Extraer las cajas delimitadoras (bounding boxes) y dibujar rectángulos
     for result in results:
