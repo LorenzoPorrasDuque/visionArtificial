@@ -6,8 +6,7 @@ import xlsxwriter
 
 vector_folders_nums = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 row=0
-col=1
-workbook=xlsxwriter.Workbook('caractNums.xlsx')
+workbook=xlsxwriter.Workbook('/home/anime/Desktop/visionArtificial/extract/caractNums.xlsx')
 worksheet=workbook.add_worksheet('caracts')
 vector_caracts=np.array([])
 
@@ -42,9 +41,9 @@ def extractPatterns(imgRoiBin,cnt):
     return features
 def extractCaracts():
     
-    global row,col,vector_caracts
+    global row,vector_caracts
     for n in range(0,len (vector_folders_nums)):
-        for imgPath in glob("extract/num/"+vector_folders_nums[n]+"/*.png"):
+        for imgPath in glob("/home/anime/Desktop/visionArtificial/extract/num/"+vector_folders_nums[n]+"/*.png"):
             imgGray = cv2.imread(imgPath,0)
             imgColor = cv2.imread(imgPath,1)
 
@@ -60,14 +59,12 @@ def extractCaracts():
                 imgRoiBin=cv2.copyMakeBorder(imgRoiBin,2,2,2,2,cv2.BORDER_CONSTANT,value=0)
                 imgRoiBin=cv2.resize(imgRoiBin,(20,60))
                 vector_caracts=extractPatterns(imgRoiBin,cnt)
-                builXlsx=vector_caracts.tolist()
-                for caract in vector_caracts:
-                    worksheet.write(row,col,n)
-                    worksheet.write(row,col,caract)
-                    col+=1
-                worksheet.write(row,0,vector_folders_nums[n])
+                # Write the label (digit) in first column
+                worksheet.write(row,0,int(vector_folders_nums[n]))
+                # Write all features in subsequent columns
+                for i, caract in enumerate(vector_caracts):
+                    worksheet.write(row,i+1,float(caract))
                 row+=1
-                col=1
             else:
                 cv2.waitKey(1)
 
